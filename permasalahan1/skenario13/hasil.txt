@@ -1,0 +1,21 @@
+
+=== Perhitungan untuk N = 1 ===
+Cosine Similarity untuk N=1: 94.20%
+
+=== Perhitungan untuk N = 2 ===
+Cosine Similarity untuk N=2: 79.97%
+
+=== Perhitungan untuk N = 3 ===
+Cosine Similarity untuk N=3: 69.25%
+
+=== Perhitungan untuk N = 4 ===
+Cosine Similarity untuk N=4: 56.76%
+
+=== Perhitungan untuk N = 5 ===
+Cosine Similarity untuk N=5: 45.51%
+
+=== Perhitungan untuk N = 6 ===
+Cosine Similarity untuk N=6: 35.23%
+
+=== Perhitungan untuk N = 7 ===
+Cosine Similarity untuk N=7: 24.07%

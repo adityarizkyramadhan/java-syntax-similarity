@@ -1,0 +1,22 @@
+Nama Method Berbeda, Algoritma Sama
+
+=== Perhitungan untuk N = 1 ===
+Cosine Similarity untuk N=1: 95.49%
+
+=== Perhitungan untuk N = 2 ===
+Cosine Similarity untuk N=2: 84.71%
+
+=== Perhitungan untuk N = 3 ===
+Cosine Similarity untuk N=3: 76.27%
+
+=== Perhitungan untuk N = 4 ===
+Cosine Similarity untuk N=4: 64.92%
+
+=== Perhitungan untuk N = 5 ===
+Cosine Similarity untuk N=5: 53.11%
+
+=== Perhitungan untuk N = 6 ===
+Cosine Similarity untuk N=6: 42.30%
+
+=== Perhitungan untuk N = 7 ===
+Cosine Similarity untuk N=7: 31.47%
